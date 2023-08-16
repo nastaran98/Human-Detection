@@ -2,6 +2,7 @@
 
 In this work, human detection task is done using different versions of YOLO algorithm. <br />
 The code and output video for each algorithm is in the corresponding folder. <br />
+YOLO Tracking and YOLOv5 are used without fine-tuning, but YOLOv8 is fine-tuned on COCO dataset.
 The best results are achieved by YOLOv8.<br />
 For adding unique id to detected objects, we use supervision library and its utils. The results are in "YOLOv8 + ID assignment" folder. <br />
 
